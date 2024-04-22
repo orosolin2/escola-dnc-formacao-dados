@@ -34,7 +34,7 @@ Você vai aplicar seus conhecimentos de Excel e de Power BI para construir um
 modelo de regressão linear capaz de prever os resultados de faturamento de
 um e-commerce. Também deverá estabelecer recomendações sobre como a
 empresa pode melhorar seus resultados.<br />
-https://github.com/orosolin2/escola-dnc/blob/main/Ciclo%20Base%20-%20Desafio%201%20-%20Preveja%20os%20resultados%20de%20um%20e-commerce%20utilizando%20o%20Power%20BI.pbix
+https://github.com/orosolin2/escola-dnc-formacao-dados/blob/main/Ciclo%20Base%20-%20Desafio%201%20-%20Preveja%20os%20resultados%20de%20um%20e-commerce%20utilizando%20o%20Power%20BI.pbix
 
 ## Ciclo Iniciante
 Aprofunde seu conhecimento nas ferramentas de análise de dados
@@ -52,7 +52,7 @@ contendo as informações mais relevantes para uma agência de marketing digital
 Você definirá as visualizações que trarão mais informações para a gestão da
 agência e trabalhará para garantir que os dados sejam simples de serem
 analisados e estejam devidamente atualizados.<br />
-https://github.com/orosolin2/escola-dnc/blob/main/Ciclo%20Iniciante%20-%20Desafio%201%20-%20Crie%20um%20painel%20gerencial%20automatizado%20utilizando%20Power%20BI.pbix
+https://github.com/orosolin2/escola-dnc-formacao-dados/blob/main/Ciclo%20Iniciante%20-%20Desafio%201%20-%20Crie%20um%20painel%20gerencial%20automatizado%20utilizando%20Power%20BI.pbix
 
 #### 2) Gere planos de ação a partir de análises com SQL
 Você irá construir um dashboard utilizando SQL em busca de definir os próximos
