@@ -20,3 +20,9 @@ Learning, projetar experimentos e implantar soluções na nuvem.
 * Construir modelos de Machine Learning utilizando Python e disponibilizá-los utilizando Flask, Mlflow, GCP e REST API.
 * Implantar uma solução de ciência de dados para resolver problemas de negócios através do framework CRISP-DM.
 * Construir análises e modelos utilizando big data.
+
+## Desafios
+### Ciclo Base
+* Preveja os resultados de um e-commerce utilizando o Power BI
+### Ciclo Iniciante
+* Crie um painel gerencial automatizado utilizando Power BI
