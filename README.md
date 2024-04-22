@@ -30,6 +30,7 @@ pessoa que pretenda seguir carreira em dados.
 ### Desafios
 
 #### 1) Preveja os resultados de um e-commerce utilizando o Power BI
+https://github.com/orosolin2/escola-dnc/blob/main/Ciclo%20Base%20-%20Desafio%201%20-%20Preveja%20os%20resultados%20de%20um%20e-commerce%20utilizando%20o%20Power%20BI.pbix
 Você vai aplicar seus conhecimentos de Excel e de Power BI para construir um
 modelo de regressão linear capaz de prever os resultados de faturamento de
 um e-commerce. Também deverá estabelecer recomendações sobre como a
@@ -46,6 +47,7 @@ pronto para atuar como um analista de inteligência de mercado.
 ### Desafios
 
 #### 1) Crie um painel gerencial automatizado utilizando Power BI
+https://github.com/orosolin2/escola-dnc/blob/main/Ciclo%20Iniciante%20-%20Desafio%201%20-%20Crie%20um%20painel%20gerencial%20automatizado%20utilizando%20Power%20BI.pbix
 Extraia informações, construa gráficos e organize um dashboard gerencial
 contendo as informações mais relevantes para uma agência de marketing digital.
 Você definirá as visualizações que trarão mais informações para a gestão da
@@ -58,10 +60,41 @@ passos de uma indústria. Deverá utilizar as informações para estabelecer a
 estratégia da empresa para o próximo ano.
 
 ## Ciclo Intermediário
+Dê um segundo passo na carreira em dados aprendendo Python
+para analisar dados de forma mais robusta, além de aprender
+sobre os fundamentos de projetos utilizando o CRISP-DM. Python
+é a linguagem mais utilizada para análises de dados no mundo,
+dominá-la é essencial para todos que atuam neste setor.
 
 ### Desafios
 
-#### Prepare seu dataset para modelagem de dados
+#### 1) Prepare seu dataset para modelagem de dados
+Aplique os conhecimentos de limpeza e organização de dados (data cleaning &
+data wrangling) para estruturar uma base de dados para modelagem. Boa parte
+do dia de um cientista de dados é garantir a organização de suas bases para
+conseguir um modelo preciso, dominar isso, é fundamental na carreira.
 
-#### Construa um modelo preditivo utilizando Python
- 
+#### 2) Construa um modelo preditivo utilizando Python
+Você irá utilizar as etapas do CRISP-DM para construir um modelo preditivo
+capaz de orientar a produção de uma fábrica de tênis. Para isso deverá realizar
+análises prévias na base, realizar a limpeza e a organização dela e, por fim, utilizar
+Python para criar um modelo para a empresa.
+
+## Ciclo Avançado
+Aprenda como criar modelos complexos que irão te diferenciar
+no mercado como um cientista de dados robusto, capaz de avaliar
+quando e qual modelo usar para trazer resultados.
+
+### Desafios
+
+#### 1) Crie um modelo de análise de fraude utilizando Clusterização
+Você deverá utilizar um modelo de Clustering para criar um sistema de análise de
+fraude eficiente para um fintech. Deverá analisar o modelo mais eficiente, capaz
+de tornar as análises mais simplificadas para a empresa.
+
+#### 2) Preveja os usuários com alta chance de deixar seu Streaming
+Utilize um modelo de classificação para mapear qual o perfil de usuários tem
+mais chance de deixar sua plataforma de streaming. Compreender quem é o
+perfil que está aumentando o churn do seu negócio é essencial para tomar ações
+que reduzam essas perdas, seja alterando critérios na venda ou modificando o
+produto.
