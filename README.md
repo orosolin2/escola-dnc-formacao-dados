@@ -21,8 +21,47 @@ Learning, projetar experimentos e implantar soluções na nuvem.
 * Implantar uma solução de ciência de dados para resolver problemas de negócios através do framework CRISP-DM.
 * Construir análises e modelos utilizando big data.
 
-## Desafios
-### Ciclo Base
-* Preveja os resultados de um e-commerce utilizando o Power BI
-### Ciclo Iniciante
-* Crie um painel gerencial automatizado utilizando Power BI
+## Ciclo Base
+Dê seu primeiro passo nas análises de dados aprendendo como
+utilizar o Excel e o Power BI para a criação do seu primeiro modelo
+preditivo. Essas são as ferramentas-base essenciais para qualquer
+pessoa que pretenda seguir carreira em dados.
+
+### Desafios
+
+#### 1) Preveja os resultados de um e-commerce utilizando o Power BI
+Você vai aplicar seus conhecimentos de Excel e de Power BI para construir um
+modelo de regressão linear capaz de prever os resultados de faturamento de
+um e-commerce. Também deverá estabelecer recomendações sobre como a
+empresa pode melhorar seus resultados.
+
+## Ciclo Iniciante
+Aprofunde seu conhecimento nas ferramentas de análise de dados
+mais utilizadas no mercado neste ciclo. Você irá entender como
+utilizar fórmulas avançadas no Excel, aprenderá a integrar as
+informações com o Power BI e utilizará o metabase para ir além
+com análises através do SQL. Ao final deste ciclo você estará
+pronto para atuar como um analista de inteligência de mercado.
+
+### Desafios
+
+#### 1) Crie um painel gerencial automatizado utilizando Power BI
+Extraia informações, construa gráficos e organize um dashboard gerencial
+contendo as informações mais relevantes para uma agência de marketing digital.
+Você definirá as visualizações que trarão mais informações para a gestão da
+agência e trabalhará para garantir que os dados sejam simples de serem
+analisados e estejam devidamente atualizados.
+
+#### 2) Gere planos de ação a partir de análises com SQL
+Você irá construir um dashboard utilizando SQL em busca de definir os próximos
+passos de uma indústria. Deverá utilizar as informações para estabelecer a
+estratégia da empresa para o próximo ano.
+
+## Ciclo Intermediário
+
+### Desafios
+
+#### Prepare seu dataset para modelagem de dados
+
+#### Construa um modelo preditivo utilizando Python
+ 
