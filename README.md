@@ -57,6 +57,7 @@ pronto para atuar como um analista de inteligência de mercado.
 </p>
 
 #### 2) Gere planos de ação a partir de análises com SQL
+[Desafio 3_ Gere planos de ação a partir de análises com SQL - Template de Entrega.pptx](https://github.com/orosolin2/escola-dnc-formacao-dados/blob/main/Desafio%203_%20Gere%20planos%20de%20a%C3%A7%C3%A3o%20a%20partir%20de%20an%C3%A1lises%20com%20SQL%20-%20Template%20de%20Entrega.pptx)
 <p>
   Você irá construir um dashboard utilizando SQL em busca de definir os próximos
   passos de uma indústria. Deverá utilizar as informações para estabelecer a
